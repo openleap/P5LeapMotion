@@ -9,7 +9,7 @@ the neatest of code. Also if you have any feedback or questions, [file an issue 
 I will try to get back to you when I can.
 
 ### Here are the descriptions for both sketches:
-*   leap_tuio is a simple driver which is written following TUIO specification that allows to get LeapMotion finger tip points to Multi-Touch applications which support support TUIO input.
+*   leap_tuio is a simple driver which is written following TUIO specification that allows to get LeapMotion finger tip points to Multi-Touch applications which support TUIO input.
 *   slide is a utility that allows to use LeapMotion's *SwipeRight*, *SwipeLeft* gestures to switch between slides on a presentation or to browse through a PDF.
 
 ## Credit ##
