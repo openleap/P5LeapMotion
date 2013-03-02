@@ -4,7 +4,7 @@ This repo contains couple of utilities which can be used with LeapMotion. Howeve
 is a pre-requisite for both of these sketches as they are written on top of these wrapper classes. Please visit, 
 [LeapMotionP5](https://github.com/onformative/LeapMotionP5) for installation instructions on the library.
 
-By any chance if you are intending to use any of them, I would like to infrom you in advance that this repo doesn't home 
+By any chance if you are intending to use any of them, I would like to inform you in advance that this repo doesn't home 
 the neatest of code. Also if you have any feedback or questions, [file an issue here](https://github.com/hamzeen/P5LeapMotion/issues/new) and 
 I will try to get back to you when I can.
 
