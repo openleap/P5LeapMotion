@@ -20,7 +20,7 @@ I will try to get back to you when I can.
 > If I'm missing anyone please shout at me, I'll be delighted to add them here.
 
 ## LICENSE ##
-Copyright © 2012 Hamzeen. H.
+Copyright © 2013 Hamzeen. H.
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
 
 Permission is hereby granted, free of charge, to any person
